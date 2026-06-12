@@ -1,0 +1,322 @@
+[
+  {
+    "filename": "Cameras.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/Cameras.py",
+    "crc": "b26732b6"
+  },
+  {
+    "filename": "Dosimeter.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/Dosimeter.py",
+    "crc": "b51bf5c2"
+  },
+  {
+    "filename": "LED.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/LED.py",
+    "crc": "a1ea110d"
+  },
+  {
+    "filename": "Master.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/Master.py",
+    "crc": "aba6cfa4"
+  },
+  {
+    "filename": "Sensors.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/Sensors.py",
+    "crc": "0c71e06e"
+  },
+  {
+    "filename": "sonar_node.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/sonar_node.py",
+    "crc": "72f2e04e"
+  },
+  {
+    "filename": "Speaker.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/Speaker.py",
+    "crc": "17e63164"
+  },
+  {
+    "filename": "uv_light.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/uv_light.py",
+    "crc": "cc68b58c"
+  },
+  {
+    "filename": "UV.py",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/src/UV.py",
+    "crc": "ef1e69fd"
+  },
+  {
+    "filename": "50-cloud-init.yaml",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/50-cloud-init.yaml",
+    "crc": "bb0c9b20"
+  },
+  {
+    "filename": "99-unmanaged-devices.conf",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/99-unmanaged-devices.conf",
+    "crc": "21bbdbee"
+  },
+  {
+    "filename": "asound.conf",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/asound.conf",
+    "crc": "3590ca45"
+  },
+  {
+    "filename": "blutooth_patch.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/blutooth_patch.sh",
+    "crc": "3af54ec5"
+  },
+  {
+    "filename": "haystack-pi-master.service",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/haystack-pi-master.service",
+    "crc": "d67b3215"
+  },
+  {
+    "filename": "master.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/master.sh",
+    "crc": "5896c024"
+  },
+  {
+    "filename": "nvidia_shutdown.service",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/nvidia_shutdown.service",
+    "crc": "913e69d5"
+  },
+  {
+    "filename": "raspberry_pi_bringup_script.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/raspberry_pi_bringup_script.sh",
+    "crc": "ecb928e1"
+  },
+  {
+    "filename": "raspberry_pi_update_script.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/raspberry_pi_update_script.sh",
+    "crc": "09266d10"
+  },
+  {
+    "filename": "ros_installation.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/ros_installation.sh",
+    "crc": "90e589d0"
+  },
+  {
+    "filename": "shutdown_trigger.sh",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/scripts/shutdown_trigger.sh",
+    "crc": "4bdf429c"
+  },
+  {
+    "filename": "haystack-pi-cameras.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-cameras.launch",
+    "crc": "57e639de"
+  },
+  {
+    "filename": "haystack-pi-depth-laser.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-depth-laser.launch",
+    "crc": "22abd9d5"
+  },
+  {
+    "filename": "haystack-pi-dosimeter.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-dosimeter.launch",
+    "crc": "e3274bd1"
+  },
+  {
+    "filename": "haystack-pi-master.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-master.launch",
+    "crc": "2a361792"
+  },
+  {
+    "filename": "haystack-pi-rgb.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-rgb.launch",
+    "crc": "518b2e27"
+  },
+  {
+    "filename": "haystack-pi-sensors.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-sensors.launch",
+    "crc": "2b243d03"
+  },
+  {
+    "filename": "haystack-pi-sonar.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-sonar.launch",
+    "crc": "59cd5185"
+  },
+  {
+    "filename": "haystack-pi-speaker.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-speaker.launch",
+    "crc": "cab7ff05"
+  },
+  {
+    "filename": "haystack-pi-uvc.launch",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/launch/haystack-pi-uvc.launch",
+    "crc": "69c02ef1"
+  },
+  {
+    "filename": "Battery_Error.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Battery_Error.wav",
+    "crc": "f87b1d95"
+  },
+  {
+    "filename": "Battery_Shutdown.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Battery_Shutdown.wav",
+    "crc": "af6230be"
+  },
+  {
+    "filename": "Charge.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Charge.wav",
+    "crc": "de974a9d"
+  },
+  {
+    "filename": "Disinfection_Initialization.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Disinfection_Initialization.mp3",
+    "crc": "ed1b6056"
+  },
+  {
+    "filename": "Disinfection_Initialization.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Disinfection_Initialization.wav",
+    "crc": "78088c36"
+  },
+  {
+    "filename": "Disinfect.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Disinfect.mp3",
+    "crc": "fc8eed10"
+  },
+  {
+    "filename": "Disinfect.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Disinfect.wav",
+    "crc": "c2cf2a0c"
+  },
+  {
+    "filename": "Far.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Far.mp3",
+    "crc": "a284c9d6"
+  },
+  {
+    "filename": "Far.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Far.wav",
+    "crc": "8c973046"
+  },
+  {
+    "filename": "Follow_Initialization.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Follow_Initialization.wav",
+    "crc": "63d3d1de"
+  },
+  {
+    "filename": "Follow.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Follow.mp3",
+    "crc": "9526c593"
+  },
+  {
+    "filename": "Follow.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Follow.wav",
+    "crc": "ba12294b"
+  },
+  {
+    "filename": "Idle.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Idle.mp3",
+    "crc": "08797dbd"
+  },
+  {
+    "filename": "Idle.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Idle.wav",
+    "crc": "9dc8d0c6"
+  },
+  {
+    "filename": "Initialization_Error.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Initialization_Error.wav",
+    "crc": "1113a985"
+  },
+  {
+    "filename": "Locked.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Locked.mp3",
+    "crc": "7ab1b362"
+  },
+  {
+    "filename": "Locked.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Locked.wav",
+    "crc": "12ed429b"
+  },
+  {
+    "filename": "Low_Battery.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Low_Battery.wav",
+    "crc": "d2095776"
+  },
+  {
+    "filename": "Manual.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Manual.mp3",
+    "crc": "a2cd78b6"
+  },
+  {
+    "filename": "Manual.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Manual.wav",
+    "crc": "43254cba"
+  },
+  {
+    "filename": "Missing.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Missing.mp3",
+    "crc": "cdcb6cc8"
+  },
+  {
+    "filename": "Missing.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Missing.wav",
+    "crc": "0d8b4bff"
+  },
+  {
+    "filename": "Near.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Near.mp3",
+    "crc": "920215cb"
+  },
+  {
+    "filename": "Near.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Near.wav",
+    "crc": "87e73307"
+  },
+  {
+    "filename": "Obstacle_Detected.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Obstacle_Detected.wav",
+    "crc": "5c1077fd"
+  },
+  {
+    "filename": "Person_Detected.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Person_Detected.mp3",
+    "crc": "7fc971cf"
+  },
+  {
+    "filename": "Person_Detected.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Person_Detected.wav",
+    "crc": "857d7587"
+  },
+  {
+    "filename": "Power_Down.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Power_Down.wav",
+    "crc": "c915842a"
+  },
+  {
+    "filename": "Power_Up.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Power_Up.mp3",
+    "crc": "f3e046b1"
+  },
+  {
+    "filename": "Power_Up.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Power_Up.wav",
+    "crc": "f8e0c583"
+  },
+  {
+    "filename": "Searching.mp3",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Searching.mp3",
+    "crc": "6cb4f75b"
+  },
+  {
+    "filename": "Searching.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Searching.wav",
+    "crc": "ef1863a7"
+  },
+  {
+    "filename": "Shutdown.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Shutdown.wav",
+    "crc": "de549d06"
+  },
+  {
+    "filename": "sound.txt",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/sound.txt",
+    "crc": "ae9cebae"
+  },
+  {
+    "filename": "Tracking_Failure.wav",
+    "path": "/home/ubuntu/purple_rp_ws/src/haystack-pi-purple/haystack/sounds/Tracking_Failure.wav",
+    "crc": "c211cc9f"
+  }
+]
